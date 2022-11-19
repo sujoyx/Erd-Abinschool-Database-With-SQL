@@ -28,6 +28,7 @@
 - as_status
 - data_of_submitted
 
+Code click [HERE](https://github.com/sujoyx/Erd-Abinschool-Database-With-SQL/blob/main/Sql%20Project%20002/erd_abinschool_database.sql)
 
 # Entity Relationship Diagram
 ![erd_abinschool_design](https://user-images.githubusercontent.com/118610214/202856473-da5252ab-bd95-4dcd-b3e8-1af818c409a5.jpeg)
