@@ -1,4 +1,4 @@
-# Erd Abinschool Database With SQl
+# Erd Abinschool Database With SQL
 
 
 # Table & Attribute
